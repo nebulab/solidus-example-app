@@ -57,6 +57,7 @@ gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'rails_12factor'
 gem 'solidus_graphql_api'
+gem 'rack-cors'
 
 group :heroku do
   gem 'cloudinary', '~> 1.11'
