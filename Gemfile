@@ -56,6 +56,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'rails_12factor'
+gem 'solidus_graphql_api'
+
 group :heroku do
   gem 'cloudinary', '~> 1.11'
   gem 'paperclip-cloudinary'
