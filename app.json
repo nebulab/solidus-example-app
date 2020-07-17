@@ -1,8 +1,8 @@
   {
-    "name": "Solidus Example App",
-    "description": "A demonstration store using Solidus with some test data.",
-    "website": "https://solidus.io/",
-    "repository": "https://github.com/solidusio/solidus-example-app",
+    "name": "Solidus GraphQL Example App",
+    "description": "A demonstration store using Solidus with GraphQL and some test data.",
+    "website": "https://github.com/solidusio-contrib/solidus_graphql_api",
+    "repository": "https://github.com/nebulab/solidus-graphql-example-app",
     "logo": "https://solidus.io/assets/images/favicon/favicon.ico",
     "keywords": [
       "solidus",
